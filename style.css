@@ -653,7 +653,8 @@ footer {
     width: 100%;
   }
 }
-/* Responsive CSS */
+
+/* Updated media query Responsive CSS */
 @media only screen and (max-width: 1200px) {
   .wrapper {
     padding-inline: 5vw;
